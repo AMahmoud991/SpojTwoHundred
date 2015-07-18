@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 //http://www.spoj.com/problems/TEST/
 //TEST - Life, the Universe, and Everything
 
-public class _1 {
+public class _1_TEST {
 
 	public static void main(String[] args) {
 

@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 //http://www.spoj.com/problems/ADDREV/
 //ADDREV - Adding Reversed Numbers
 
-public class _2 {
+public class _2_ADDREV {
 
 	public static void main(String[] args) {
 
